@@ -1,0 +1,9 @@
+Django>=5.0
+djangorestframework
+django-cors-headers
+django-environ
+networkx
+geopy
+requests
+anthropic
+python-dotenv
